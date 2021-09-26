@@ -3,8 +3,11 @@
 # 环境配置：
 
 python == 3.6
+
 tensorflow == 2.0.0
+
 h5py == 2.10.0
+
 opencv-python == 4.5.3.56
 
 
